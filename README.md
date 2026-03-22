@@ -9,6 +9,6 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 - How To Use Branches
 - How To Commit Changes
 
-### I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
+### :star: I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
 
 > This assignment is helping me to understand GitHub and Git.
