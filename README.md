@@ -1,15 +1,15 @@
 # CFG Assignment 1 
 
-🌸 ## About Me
+## 🌸 About Me
 Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub which is required for the CFG *Software Engineering* stream.
 
-🌸 ## What I Am Learning
+## 🌸 What I Am Learning
 - How To Create Repositories
 - How To Create A Read Me File
 - How To Use Branches
 - How To Commit Changes
 
-🌸 ## Git Workflow
+## 🌸 Git Workflow
 1. Created a new branch using 'git checkout -b add-readme'
 2. Added files using 'git add .'
 3. Committed changes using 'git commit'
@@ -17,7 +17,7 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 5. Opened a pull request on GitHub
 6. Merged changes into the main branch
 
-🌸 ### :star: I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
+ ### :star: I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
 
 > This assignment is helping me to understand GitHub and Git.
 
