@@ -1,0 +1,1 @@
+This file is used to list all external libraries (dependencies) and their specific versions needed for the code to run. It allows for consistent environments.
