@@ -34,11 +34,8 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 ### Committing And Pushing Changes
 ![Commit and Push](commit-push.png)
 
-### Opening A Pull Request
-![Pull Request](creatingpullrequest.png)
-
 ### Merging Pull Request Into Main Branch
 ![Merge](mergingpullrequest.png)
 
->Completed Assignment
+>Completed Assignment On 22/03
 
