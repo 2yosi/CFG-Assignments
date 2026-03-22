@@ -39,5 +39,11 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 ### Merging Pull Request Into Main Branch
 ![Merge](mergingpullrequest.png)
 
+### Creating Gitignore File
+![Merge](gitignore.png)
+
+### Creating Requirements.txt File
+![Merge](requirementstxt.png)
+
 >Completed Assignment On 22/03
 
