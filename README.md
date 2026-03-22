@@ -24,7 +24,7 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 ### Resources
 [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## 📸 Screenshots
+### 📸 Screenshots
 ### Creating The README File
 ![Creating README](creatingreadme.png)
 
