@@ -16,6 +16,8 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 4. Pushed changes using 'git push'
 5. Opened a pull request on GitHub
 6. Merged changes into the main branch
+7. Create .gitignore file and wrote a brief description about what it was.
+8. Create requirements.txt and wrote a brief description about what it was.
 
  ### :star: I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
 
@@ -36,6 +38,12 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 
 ### Merging Pull Request Into Main Branch
 ![Merge](mergingpullrequest.png)
+
+### Creating Gitignore File
+![Merge](gitignore.png)
+
+### Creating Requirements.txt File
+![Merge](requirementstxt.png)
 
 >Completed Assignment On 22/03
 
