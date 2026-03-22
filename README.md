@@ -24,5 +24,21 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 ### Resources
 [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## 📸 Screenshots
+### Creating The README File
+![Creating README](creatingreadme.png)
+
+### Creating A Branch
+![Creating Branch](creatingbranch.png)
+
+### Committing And Pushing Changes
+![Commit and Push](commit-push.png)
+
+### Opening A Pull Request
+![Pull Request](creatingpullrequest.png)
+
+### Merging Pull Request Into Main Branch
+![Merge](mergingpullrequest.png)
+
 >Completed Assignment
 
