@@ -19,7 +19,7 @@ Hi, my name is **Adeyosola Akinyemi** and I am currently learning Git and GitHub
 
  ### :star: I am really excited and I <ins>can't wait</ins> to learn more! :star: ###
 
-> This assignment is helping me to understand GitHub and Git.
+> Reflection: This assignment is helping me to understand GitHub and Git. At first, I was a bit confused but the more I did it, the more I got the hang of it. This was actually enjoyable.
 
 ### Resources
 [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
